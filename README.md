@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚀 Project Overview
 
 In real-world organizations, support teams receive thousands of tickets daily.
@@ -183,3 +184,6 @@ This project demonstrates how Natural Language Processing and Machine Learning c
 
 It provides a scalable foundation for automated ticket management and intelligent routing.
 
+=======
+# FUTURE_ML_02
+>>>>>>> 3cf2229741a4a4f96cb4f10e14248d902083779f
